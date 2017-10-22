@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Source Internet</string>
+
+    <string-array name="spiner">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
